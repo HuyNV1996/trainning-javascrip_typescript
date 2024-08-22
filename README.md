@@ -1,4 +1,4 @@
-# Kho Lưu Trữ Kiến Thức Về Github
+# Kho Lưu Trữ Kiến Thức Về Javascript
 
 Chào mừng đến với kho lưu trữ kiến thức Javascript! Kho lưu trữ này chứa các tài nguyên và kiến thức toàn diện về việc xây dựng Javascript. Dù bạn là người mới bắt đầu hay nhà phát triển có kinh nghiệm, bạn sẽ tìm thấy những thông tin quý báu giúp bạn thiết kế, triển khai và sử dụng Javascript một cách hiệu quả.
 
@@ -6,7 +6,6 @@ Chào mừng đến với kho lưu trữ kiến thức Javascript! Kho lưu tr�
 
 1. [Một số kiến thức cơ bản](docs/kien-thuc-co-ban.md)
 2. [Mảng](docs/array.md)
-3. [Các trường hợp sử dụng trong thực tế](docs/case-study.md)
 
 ## Đóng Góp
 
